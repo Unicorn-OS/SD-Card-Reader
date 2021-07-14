@@ -9,4 +9,4 @@
 # - https://www.google.com/search?q=modprobe+RTSX
 
 # Discuss:
-# - 
+# - https://archived.forum.manjaro.org/t/sd-card-reader-not-working-after-kernel-update/129538/8
